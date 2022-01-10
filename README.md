@@ -6,5 +6,5 @@ parte 2
 
 Integrantes:
 
-- Sebastian
+- Sebastián
 - Kory
