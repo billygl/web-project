@@ -3,4 +3,8 @@ INSTALAR
 parte 2
 
 
-Kory Ponce
+
+Integrantes:
+
+- Sebastian
+- Kory
