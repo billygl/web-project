@@ -2,4 +2,5 @@ INSTALAR
 
 parte 2
 
-Integrantes
+
+Kory Ponce
