@@ -8,4 +8,4 @@ Integrantes:
 
 - Sebastián
 - Kory
-- Marco
+- Marco L.
